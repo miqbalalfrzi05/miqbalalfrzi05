@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="ikbal.jpg" alt="Banner Profil">
+  <img src="![Alt Text](https://github.com/username/repo-name/blob/main/folder/ikbal.jpg)
+" alt="Banner Profil">
 </p>
 
 <h1 align="center">Halo! 👋 Saya M Ikbal Alfa Rizi</h1>
