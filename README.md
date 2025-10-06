@@ -4,7 +4,20 @@
 
 <h1 align="center">Halo! 👋 Saya M Ikbal Alfa Rizi</h1>
 <p align="center">
-  Seorang mahasiswa Informatika yang bersemangat dalam bidang Machine/Deep Learning, SQA, Data Analis.
+  Mahasiswa Informatika Universitas Ahmad Dahlan (angkatan 2022)
+yang proaktif dan memiliki antusiasme tinggi di bidang Machine
+Learning. Analisis Data, dan Software Quality Assurance (SQA).
+Dengan keahlian dalam bahasa pemrograman Python dan familiar
+dengan tools seperti Google Colab, saya terampil dalam
+menganalisis data untuk menemukan wawasan strategis. Saya
+memiliki pengalaman praktis dalam proyek pengembangan aplikasi
+web, di mana saya berkontribusi dalam perancangan ERD dan Use
+Case Diagram. Selain itu, saya juga terampil dalam mengidentikasi
+dan melaporkan bug untuk memastikan kualitas produk. Saya
+adalah seorang yang berkomitmen untuk belajar dengan cepat dan
+siap menerapkan pengetahuan akademis serta keterampilan praktis
+untuk memberikan kontribusi nyata dalam lingkungan magang yang
+dinamis.
 </p>
 
 ---
