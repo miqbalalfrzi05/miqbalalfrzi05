@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="!<img src="URL_BANNER_ANDA.png" alt="Banner Profil">
+  <img src="!<img src="ikbal.jpg" alt="Banner Profil">
 </p>
 
 <h1 align="center">Halo! 👋 Saya M Ikbal Alfa Rizi</h1>
