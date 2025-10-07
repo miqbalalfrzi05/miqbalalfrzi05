@@ -6,8 +6,8 @@
 <h1 align="center">Halo! 👋 Saya M Ikbal Alfa Rizi</h1>
 <p align="center">
   Mahasiswa Informatika Universitas Ahmad Dahlan (angkatan 2022)
-yang proaktif dan memiliki antusiasme tinggi di bidang Machine
-Learning. Analisis Data, dan Software Quality Assurance (SQA).
+yang proaktif dan memiliki antusiasme tinggi di bidang Machine/Deep
+Learning, Analisis Data, dan Software Quality Assurance (SQA).
 Dengan keahlian dalam bahasa pemrograman Python dan familiar
 dengan tools seperti Google Colab, saya terampil dalam
 menganalisis data untuk menemukan wawasan strategis. Saya
