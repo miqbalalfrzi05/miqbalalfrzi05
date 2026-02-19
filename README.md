@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">🏴‍☠️ Welcome to My Crew</h1>
 
-<!--
-**miqbalalfrzi05/miqbalalfrzi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="500">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+Hi, I'm **Miqbal**  
+🎓 Informatics Student  
+💻 Future Software Engineer  
+🚀 Sailing through the Grand Line of Programming  
+
+---
+
+## 🍈 Devil Fruits (Skills)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,python" />
+</p>
+
+---
+
+## 📊 Pirate Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miqbalafrzi05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqbalafrzi05&layout=compact&theme=tokyonight" />
+</p>
