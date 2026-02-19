@@ -19,7 +19,7 @@
 ## 🍈 Devil Fruits (ML Arsenal)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,js,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,laravel, node.js, html, css" />
 </p>
 
 ---
