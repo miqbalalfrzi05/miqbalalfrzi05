@@ -19,7 +19,7 @@
 ## 🍈 Devil Fruits (ML)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,laravel,node.js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,laravel,nodejs,html,css" />
 </p>
 
 ---
