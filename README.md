@@ -33,5 +33,3 @@
 ## 🐍 Pirate Snake
 
 ![snake](https://raw.githubusercontent.com/miqbalalfrzi05/miqbalalfrzi05/output/github-contribution-grid-snake.svg)
-
-
