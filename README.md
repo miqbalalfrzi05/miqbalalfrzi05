@@ -1,4 +1,5 @@
-<h1 align="center">🏴‍☠️ Welcome to My Crew</h1>
+<h1 align="center">🏴‍☠️ Monkey D. Miqbal</h1>
+<h3 align="center">Future Pirate King of Machine Learning</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="500">
@@ -8,17 +9,17 @@
 
 ## 👋 About Me
 
-Hi, I'm **Miqbal**  
-🎓 Informatics Student  
-💻 Future Software Engineer  
-🚀 Sailing through the Grand Line of Programming  
+🧠 Informatics Student  
+⚡ Focused on Machine Learning & AI  
+🚀 Currently exploring Deep Learning, Data Science & Neural Networks  
+🔥 Training to become the Pirate King of ML  
 
 ---
 
-## 🍈 Devil Fruits (Skills)
+## 🍈 Devil Fruits (ML Arsenal)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,js,react,nodejs" />
 </p>
 
 ---
@@ -26,6 +27,5 @@ Hi, I'm **Miqbal**
 ## 📊 Pirate Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miqbalafrzi05&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqbalafrzi05&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=miqbalalfrzi05&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username
