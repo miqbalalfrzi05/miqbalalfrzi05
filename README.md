@@ -16,7 +16,7 @@
 
 ---
 
-## 🍈 Devil Fruits (ML Arsenal)
+## 🍈 Devil Fruits (ML)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,laravel, node.js, html, css" />
