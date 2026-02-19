@@ -1,4 +1,4 @@
-<h1 align="center">🏴‍☠️ Monkey D. Miqbal</h1>
+<h1 align="center">🏴‍☠️M ikbal Alfa Rizi</h1>
 <h3 align="center">Future Pirate King of Machine Learning</h3>
 
 <p align="center">
